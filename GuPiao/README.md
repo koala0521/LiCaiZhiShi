@@ -2,13 +2,15 @@
  * @Author: XueBaBa
  * @Description: 文件描述~
  * @Date: 2020-12-14 11:14:17
- * @LastEditTime: 2020-12-14 11:20:13
+ * @LastEditTime: 2020-12-14 20:07:57
  * @LastEditors: Do not edit
- * @FilePath: /books/README.md
+ * @FilePath: /知识总结/gupiao/README.md
 -->
 # 说明
 
-金融小白的股票学习之路...💪
+这是一个金融小白的理财知识学习之路...💪
+
+
 
 
 
