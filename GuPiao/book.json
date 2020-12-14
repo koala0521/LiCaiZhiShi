@@ -26,8 +26,8 @@
     },   
     "pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright": "Copyright © https://koala0521.github.io 2020 xuebaba",
-            "modify_label": "文件最近一次修订时间：",
+            "copyright": "Copyright © xuebaba 2020 ",
+            "modify_label": "最近修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "prism": {
